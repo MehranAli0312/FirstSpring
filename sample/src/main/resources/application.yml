@@ -1,0 +1,9 @@
+item:
+    apple: Apple
+    apple_price: 50
+
+    banana: Banana
+    banana_price: 30
+
+    guava: Guava
+    guava_price: 80
